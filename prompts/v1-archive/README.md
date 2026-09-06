@@ -14,7 +14,7 @@
 | [02-topic-script-v1.md](02-topic-script-v1.md) | 2026-09-06 | 选题策划 v1 初版 |
 | [03-cover-prompt-v1.md](03-cover-prompt-v1.md) | 2026-09-06 | 封面提示词 v1 初版 |
 | [04-data-review-v1.md](04-data-review-v1.md) | 2026-09-06 | 数据复盘 v1 初版 |
-| [v1-vs-v2-diff.md](v1-vs-v2-diff.md) | 2026-09-06 | 逐段改动对照与面试叙事素材 |
+| [v1-vs-v2-diff.md](v1-vs-v2-diff.md) | 2026-09-06 | 逐段改动对照 |
 
 ## 归档约定
 
